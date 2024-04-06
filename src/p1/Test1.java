@@ -5,6 +5,6 @@ public class Test1 {
 		System.out.println("In test 1");
 		System.out.println("Line no 6 changed in test 1");
 		System.out.println("Added Line 7 in B");
-
+		System.out.println("Added Line 8 in A");
 	}
 }
