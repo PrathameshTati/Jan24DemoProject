@@ -3,5 +3,6 @@ package p1;
 public class Test1 {
 	public static void main(String[] args) {
 		System.out.println("In test 1");
+		System.out.println("Line no 6 changed in test 1");
 	}
 }
